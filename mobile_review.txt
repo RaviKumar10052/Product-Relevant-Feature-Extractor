@@ -1,0 +1,6 @@
+product/productId:mobile
+product/name:Redmi Note 6 Pro 64GB (Rose Gold, 6GB RAM)
+review/text:Satisfactory, so far. Many features are yet to be tested/checked
+review/text:It's actually a best Chinese phone I have ever used with 6 GB ram and 64 GB Rom . Still people think that Chinese phone are not trustable but I know that Xiaomi have it's separate Fan base
+review/text:Iam using this mobile 1 month on wards.. It's working nice 😎👍... Value for money.. And camera 📷 quality is osm....
+review/text:Battery is not good
